@@ -4,7 +4,7 @@ Hello friendly strangers, I’m Simon.
 🌊　I build [surge.fm](https://github.com/surgefm), a crowd-sourced news tracking platform.  
 📖　I’m a K-12 officer at [@tbpmig](https://github.com/tbpmig). I build web-based educational thingies for kids.  
 🚗　I’m an intern at [@argoai](https://github.com/argoai), an autonomous vehicle company.  
-✨　I used to work as a high school teacher in rural Hainan and a [@nytimes](https://github.com/nytimes) intern in Beijing.  
+✨　I used to work as a high school teacher in rural Hainan and as a [@nytimes](https://github.com/nytimes) intern in Beijing.  
 🐱　I’m a cat person.  
 🍵　My favorate poem is _“Useless”_ by Weitang Liao:
 > 　_即使是这样_  
