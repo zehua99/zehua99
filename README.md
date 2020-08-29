@@ -7,10 +7,10 @@ Hello friendly strangers, I’m Simon.
 ✨&nbsp;&nbsp;&nbsp;I used to work as a high school teacher in rural Hainan and as a [@nytimes](https://github.com/nytimes) intern in Beijing.  
 🐱&nbsp;&nbsp;&nbsp;I’m a cat person.  
 🍵&nbsp;&nbsp;&nbsp;My favorate poem is _“Useless”_ by Weitang Liao:
->&nbsp;&nbsp;&nbsp;&nbsp;_即使是这样_  
->&nbsp;&nbsp;&nbsp;&nbsp;_我们仍然相信自己活着，_  
->&nbsp;&nbsp;&nbsp;&nbsp;_相信灵魂是幻肢，仍然骑车穿过广场。_  
->&nbsp;&nbsp;&nbsp;&nbsp;_暴雨的列阵仍然找不到般配的骑手。_  
->&nbsp;&nbsp;&nbsp;&nbsp;July 2017
+>&nbsp;&nbsp;_即使是这样_  
+>&nbsp;&nbsp;_我们仍然相信自己活着，_  
+>&nbsp;&nbsp;_相信灵魂是幻肢，仍然骑车穿过广场。_  
+>&nbsp;&nbsp;_暴雨的列阵仍然找不到般配的骑手。_  
+>&nbsp;&nbsp;July 2017
 
 Peace! ✌️
