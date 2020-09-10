@@ -1,7 +1,7 @@
 Hello friendly strangers, I’m Simon.
 
 🔬&nbsp;&nbsp;I study computer science at [@UMich](https://github.com/umich), and I want to tackle misinformation with NLP.  
-🌊&nbsp;&nbsp;I build [surge.fm](https://github.com/surgefm), a crowd-sourced news tracking platform.  
+🌊&nbsp;&nbsp;I build [surge.fm](https://github.com/surgefm), a crowdsourcing news tracking platform.  
 📖&nbsp;&nbsp;I’m a K-12 officer at [@tbpmig](https://github.com/tbpmig). I build web-based educational thingies for kids.  
 🚗&nbsp;&nbsp;I’m an intern at [@argoai](https://github.com/argoai), an autonomous vehicle company.  
 ✨&nbsp;&nbsp;I used to work as a high school teacher in rural Hainan and as a [@nytimes](https://github.com/nytimes) intern in Beijing.  
