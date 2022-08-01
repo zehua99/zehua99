@@ -14,7 +14,3 @@ Hello friendly strangers, I’m Zehua.
 >&nbsp;July 2017
 
 Peace! ✌️
-
-<a href="https://callm.ee/zehua">
-  <img align="left" alt="Call me Zehua" height='50' src="https://callm.ee/widget/zehua/small">
-</a>
